@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="pxp-api-smoke-suiy" verbose="8">
+	<listeners>
+		<listener class-name="pxp.api.listeners.CustomReporter" />
+	</listeners>
+
+	<test name="BatcherTest">
+		<classes>
+			<class name="pxp.api.test.batcher.BatcherTest">
+				<methods>
+					<include name="testGetBatcherMessage" />
+					<include name="testBatcherInDb" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="UserTestTest">
+		<classes>
+			<class name="pxp.api.test.user.UserTest">
+				<methods>
+					<include name="testGetUser" />
+					<include name="testDeleteUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,27 @@
+{
+  "user-service": {
+    "url": "https://reqres.in/api",
+    "endpoints": {
+      "getUser": "/users/{id}",
+      "createUser": "/users",
+      "updateUser": "/users/{id}",
+      "deleteUser": "/users/{id}"
+    }
+  },
+  "batcher-service": {
+    "url": "https://int-digital-internal-api.qvcdev.qvc.net/api/batcher",
+    "endpoints": {
+      "getBatcherStatus": "/{countryCode}/batcher/{productNumber}",
+      "updateBatcherStatus": "/{countryCode}/batcher",
+      "deleteBatcherStatus": "/{countryCode}/batcher/{productNumber}",
+      "createBatcher": "/{countryCode}/batcher/{productNumber}"
+    },
+    "country-code": "DE"
+  },
+  "datasource": {
+    "dbClass": "com.mysql.cj.jdbc.Driver",
+    "dbURL": "jdbc:mysql://localhost:3306/sakila",
+    "dbUser": "root",
+    "dbPassword": "root"
+  }
+}
