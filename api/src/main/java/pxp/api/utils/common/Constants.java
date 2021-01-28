@@ -12,7 +12,7 @@ public class Constants {
 	
 	public static final String USER_DIR = "user.dir";
 	// property files path
-	public static final String CONFIG_FOLDER_PATH = System.getProperty(USER_DIR) + File.separator + "src" + File.separator + "test" + File.separator + "resources" + File.separator + "config";
+	public static final String CONFIG_FOLDER_PATH = System.getProperty(USER_DIR) + File.separator + "src" + File.separator + "main" + File.separator + "resources" + File.separator + "config";
 
 	// test results and report paths
 	public static final String TEST_RESULT_DIRECTORY_PATH = System.getProperty(USER_DIR) + File.separatorChar + "test-result";

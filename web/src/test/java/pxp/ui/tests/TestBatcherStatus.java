@@ -7,15 +7,14 @@ import org.testng.annotations.Test;
 
 import pxp.api.service.batcher.BatcherDbService;
 import pxp.api.service.batcher.BatcherService;
-import pxp.api.service.user.UserDbService;
-import pxp.api.service.user.UserService;
+import pxp.api.service.batcher.DataSet;
 
 public class TestBatcherStatus {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(TestBatcherStatus.class);
 	
-	@Test
-	public void testBatcherStatusFromAPI() {
+	@Test(testName = "PXP_01", description = "Test that batcher status is [Test Commplete!]", dataProviderClass = DataSet.class , dataProvider =  "productNumbers")
+	public void testBatcherStatusFromAPI(String data) {
 		String batcherStatus = BatcherService.getBatcherStatus("us", "G34BVJ5KBK5").getBody().getBatcherStatus();
 		Assert.assertEquals(batcherStatus, "Test Complete !");
 	}

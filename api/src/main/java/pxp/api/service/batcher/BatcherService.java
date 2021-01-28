@@ -11,6 +11,7 @@ import io.restassured.response.Response;
 import pxp.api.model.Endpoint;
 import pxp.api.service.batcher.model.BatcherDetails;
 import pxp.api.utils.common.Config;
+import pxp.api.utils.common.XMLConfig;
 import pxp.api.utils.http.IRestResponse;
 import pxp.api.utils.http.RequestType;
 import pxp.api.utils.http.RestClient;
@@ -18,7 +19,7 @@ import pxp.api.utils.http.RestResponse;
 
 public class BatcherService {
 	private static final Logger LOGGER = LoggerFactory.getLogger(BatcherService.class);
-	private static final String BASE_URL = Config.getProperty("base.url.batcherService");
+	private static final String BASE_URL = XMLConfig.getConfig("BatcherService", "url");
 
 	private static final Map<String, Endpoint> OPERATIONS = new HashMap<String, Endpoint>() {
 		private static final long serialVersionUID = 1L;

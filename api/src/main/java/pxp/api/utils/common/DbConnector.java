@@ -20,10 +20,19 @@ public class DbConnector {
 	private static Connection con;
 
 	public static Connection getDbConnection() {
+		
+		
+		String dbClass = XMLConfig.getConfig("Database", "Class");
+		String dbUrl = XMLConfig.getConfig("Database", "URL");
+		String dbUser = XMLConfig.getConfig("Database", "User");
+		String dbPassword = XMLConfig.getConfig("Database", "Password");
+		
+		System.out.println("DB Class is : "+ dbClass);
+
 		if (Objects.isNull(con)) {
 			try {
-				Class.forName(Config.getProperty("dbClass")).newInstance();
-				con = DriverManager.getConnection(Config.getProperty("dbURL"), Config.getProperty("dbUser"), Config.getProperty("dbPassword"));
+				Class.forName(dbClass).newInstance();
+				con = DriverManager.getConnection(dbUrl, dbUser, dbPassword);
 				LOGGER.info("Connection established with DB");
 			} catch (Exception e) {
 				e.printStackTrace();

@@ -12,15 +12,16 @@ import io.restassured.response.Response;
 import pxp.api.model.Endpoint;
 import pxp.api.service.user.model.User;
 import pxp.api.utils.common.CommonUtils;
-import pxp.api.utils.common.Config;
+import pxp.api.utils.common.XMLConfig;
 import pxp.api.utils.http.IRestResponse;
 import pxp.api.utils.http.RequestType;
 import pxp.api.utils.http.RestClient;
 import pxp.api.utils.http.RestResponse;
 
 public class UserService {
+	
 	private static final Logger LOGGER = LoggerFactory.getLogger(UserDbService.class);
-	private static final String BASE_URL = Config.getProperty("base.url.userService");
+	private static final String BASE_URL = XMLConfig.getConfig("UserService", "url");
 	private static String USER_PAYLOAD = "";
 	
 	private static final Map<String, Endpoint> OPERATIONS = new HashMap<String, Endpoint>() {

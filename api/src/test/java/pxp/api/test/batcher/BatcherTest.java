@@ -23,7 +23,7 @@ public class BatcherTest {
 		LOGGER.info("Batcher detail is : ", batcherDetails.getContent());
 	}
 
-	// @Test(testName = "PXP_02", description = "Test that batcher updated in database")
+	 @Test(testName = "PXP_02", description = "Test that batcher updated in database")
 	public void testBatcherInDb() {
 		ExtentReporter.info("Searching batcher in database");
 		long batcherCount = BatcherDbService.getBatcherRecordCount("us", "GJD4MJE6JHBND");
