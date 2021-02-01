@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="pxp-api-smoke-suiy" verbose="8">
+<suite name="pxp-api-smoke-suite" verbose="8">
 	<listeners>
 		<listener class-name="pxp.api.listeners.CustomReporter" />
 	</listeners>

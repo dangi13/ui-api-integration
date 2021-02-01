@@ -5,7 +5,7 @@
 	</BatcherService>
 
 	<UserService>
-		<url>https://restcountries.eu/rest</url>
+		<url>https://reqres.in/api</url>
 	</UserService>
 
 	<Database>
