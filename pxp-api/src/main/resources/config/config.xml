@@ -7,6 +7,10 @@
 	<UserService>
 		<url>https://reqres.in/api</url>
 	</UserService>
+	
+	<SearchService>
+		<url>https://reqres.in/api/search</url>
+	</SearchService>
 
 	<Database>
 		<Class>com.mysql.cj.jdbc.Driver</Class>

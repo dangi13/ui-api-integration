@@ -1,0 +1,2809 @@
+{
+
+  "limit": 10,
+
+  "numberOfElements": 10,
+
+  "totalElements": 320715,
+
+  "navigation": {
+
+    "refinements": [
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/cooking-&-dining/_/N-17j6srn?ro=17j6srn",
+
+            "navigationStateJson": "/cooking-&-dining/_/N-17j6srn/c.json?ro=17j6srn",
+
+            "count": 13260,
+
+            "name": "Cooking & Dining",
+
+            "refinementId": "17j6srn",
+
+            "categoryId": "1125",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/electronics/_/N-lglw?ro=lglw",
+
+            "navigationStateJson": "/electronics/_/N-lglw/c.json?ro=lglw",
+
+            "count": 20741,
+
+            "name": "Electronics",
+
+            "refinementId": "lglw",
+
+            "categoryId": "0103",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/fashion/_/N-lglt?ro=lglt",
+
+            "navigationStateJson": "/fashion/_/N-lglt/c.json?ro=lglt",
+
+            "count": 3509,
+
+            "name": "Fashion",
+
+            "refinementId": "lglt",
+
+            "categoryId": "0100",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/for-the-home/_/N-lglu?ro=lglu",
+
+            "navigationStateJson": "/for-the-home/_/N-lglu/c.json?ro=lglu",
+
+            "count": 33544,
+
+            "name": "For the Home",
+
+            "refinementId": "lglu",
+
+            "categoryId": "0101",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/home-decor/_/N-de018k?ro=de018k",
+
+            "navigationStateJson": "/home-decor/_/N-de018k/c.json?ro=de018k",
+
+            "count": 13283,
+
+            "name": "Home Decor",
+
+            "refinementId": "de018k",
+
+            "categoryId": "0010",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/home-improvement/_/N-x1ipek?ro=x1ipek",
+
+            "navigationStateJson": "/home-improvement/_/N-x1ipek/c.json?ro=x1ipek",
+
+            "count": 3124,
+
+            "name": "Home Improvement",
+
+            "refinementId": "x1ipek",
+
+            "categoryId": "0011",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/jewelry/_/N-mflu?ro=mflu",
+
+            "navigationStateJson": "/jewelry/_/N-mflu/c.json?ro=mflu",
+
+            "count": 40655,
+
+            "name": "Jewelry",
+
+            "refinementId": "mflu",
+
+            "categoryId": "1001",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/kitchen-&-food/_/N-lglv?ro=lglv",
+
+            "navigationStateJson": "/kitchen-&-food/_/N-lglv/c.json?ro=lglv",
+
+            "count": 3701,
+
+            "name": "Kitchen & Food",
+
+            "refinementId": "lglv",
+
+            "categoryId": "0102",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/shoes/_/N-1doux?ro=1doux",
+
+            "navigationStateJson": "/shoes/_/N-1doux/c.json?ro=1doux",
+
+            "count": 65,
+
+            "name": "Shoes",
+
+            "refinementId": "1doux",
+
+            "categoryId": "S994",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/toys,-crafts-&-leisure/_/N-eof1fp?ro=eof1fp",
+
+            "navigationStateJson": "/toys,-crafts-&-leisure/_/N-eof1fp/c.json?ro=eof1fp",
+
+            "count": 12586,
+
+            "name": "Toys, Crafts & Leisure",
+
+            "refinementId": "eof1fp",
+
+            "categoryId": "0012",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Category",
+
+        "multiSelect": "false"
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/1-800-flowers.com/_/N-1z13vuo?ro=1z13vuo",
+
+            "navigationStateJson": "/1-800-flowers.com/_/N-1z13vuo/c.json?ro=1z13vuo",
+
+            "count": 308,
+
+            "name": "1-800-Flowers.com",
+
+            "refinementId": "1z13vuo",
+
+            "categoryId": "1-800-Flowers.com",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/100%-pure/_/N-1z141f0?ro=1z141f0",
+
+            "navigationStateJson": "/100%-pure/_/N-1z141f0/c.json?ro=1z141f0",
+
+            "count": 85,
+
+            "name": "100% Pure",
+
+            "refinementId": "1z141f0",
+
+            "categoryId": "100% Pure",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/1800baskets.com/_/N-1z13dw7?ro=1z13dw7",
+
+            "navigationStateJson": "/1800baskets.com/_/N-1z13dw7/c.json?ro=1z13dw7",
+
+            "count": 13,
+
+            "name": "1800baskets.com",
+
+            "refinementId": "1z13dw7",
+
+            "categoryId": "1800baskets.com",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/180s/_/N-1z13ir5?ro=1z13ir5",
+
+            "navigationStateJson": "/180s/_/N-1z13ir5/c.json?ro=1z13ir5",
+
+            "count": 1,
+
+            "name": "180s",
+
+            "refinementId": "1z13ir5",
+
+            "categoryId": "180s",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/1928-jewelry/_/N-1z13vmu?ro=1z13vmu",
+
+            "navigationStateJson": "/1928-jewelry/_/N-1z13vmu/c.json?ro=1z13vmu",
+
+           "count": 8,
+
+            "name": "1928 Jewelry",
+
+            "refinementId": "1z13vmu",
+
+            "categoryId": "1928 Jewelry",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/3-custom-color-specialists/_/N-1z13j38?ro=1z13j38",
+
+            "navigationStateJson": "/3-custom-color-specialists/_/N-1z13j38/c.json?ro=1z13j38",
+
+            "count": 16,
+
+            "name": "3 Custom Color Specialists",
+
+            "refinementId": "1z13j38",
+
+            "categoryId": "3 Custom Color Specialists",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/35-degrees-below/_/N-1z141tg?ro=1z141tg",
+
+            "navigationStateJson": "/35-degrees-below/_/N-1z141tg/c.json?ro=1z141tg",
+
+            "count": 3,
+
+            "name": "35 Degrees Below",
+
+            "refinementId": "1z141tg",
+
+            "categoryId": "35 Degrees Below",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/35-sport/_/N-1z13izx?ro=1z13izx",
+
+            "navigationStateJson": "/35-sport/_/N-1z13izx/c.json?ro=1z13izx",
+
+            "count": 2,
+
+            "name": "35 Sport",
+
+            "refinementId": "1z13izx",
+
+            "categoryId": "35 Sport",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/360-degrees/_/N-1z140ih?ro=1z140ih",
+
+            "navigationStateJson": "/360-degrees/_/N-1z140ih/c.json?ro=1z140ih",
+
+            "count": 2,
+
+            "name": "360 Degrees",
+
+            "refinementId": "1z140ih",
+
+            "categoryId": "360 Degrees",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/3com/_/N-1z13wbe?ro=1z13wbe",
+
+            "navigationStateJson": "/3com/_/N-1z13wbe/c.json?ro=1z13wbe",
+
+            "count": 22,
+
+            "name": "3Com",
+
+            "refinementId": "1z13wbe",
+
+            "categoryId": "3Com",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Brand",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "300"
+
+        }
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-1d1zn0e?ro=1d1zn0e",
+
+            "navigationStateJson": "/_/N-1d1zn0e/c.json?ro=1d1zn0e",
+
+            "count": 1,
+
+            "name": "Anniversary Gifts",
+
+            "refinementId": "1d1zn0e",
+
+            "categoryId": "Anniversary Gifts",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-14rmxzr?ro=14rmxzr",
+
+            "navigationStateJson": "/_/N-14rmxzr/c.json?ro=14rmxzr",
+
+            "count": 4,
+
+            "name": "Gift Sets",
+
+            "refinementId": "14rmxzr",
+
+            "categoryId": "Gift Sets",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1mzumri?ro=1mzumri",
+
+            "navigationStateJson": "/_/N-1mzumri/c.json?ro=1mzumri",
+
+            "count": 10,
+
+            "name": "Gifts for Her",
+
+            "refinementId": "1mzumri",
+
+            "categoryId": "Gifts for Her",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-14by76r?ro=14by76r",
+
+            "navigationStateJson": "/_/N-14by76r/c.json?ro=14by76r",
+
+            "count": 10,
+
+            "name": "Gifts for Him",
+
+            "refinementId": "14by76r",
+
+            "categoryId": "Gifts for Him",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-117lfd8?ro=117lfd8",
+
+            "navigationStateJson": "/_/N-117lfd8/c.json?ro=117lfd8",
+
+            "count": 1,
+
+            "name": "Gifts For Him",
+
+            "refinementId": "117lfd8",
+
+            "categoryId": "Gifts For Him",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-ls9buk?ro=ls9buk",
+
+            "navigationStateJson": "/_/N-ls9buk/c.json?ro=ls9buk",
+
+            "count": 1,
+
+            "name": "Gifts for Kids",
+
+            "refinementId": "ls9buk",
+
+            "categoryId": "Gifts for Kids",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-aeudzz?ro=aeudzz",
+
+            "navigationStateJson": "/_/N-aeudzz/c.json?ro=aeudzz",
+
+            "count": 1,
+
+            "name": "Gifts for the Hostess",
+
+            "refinementId": "aeudzz",
+
+            "categoryId": "Gifts for the Hostess",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1kvqap5?ro=1kvqap5",
+
+            "navigationStateJson": "/_/N-1kvqap5/c.json?ro=1kvqap5",
+
+            "count": 19,
+
+            "name": "Gifts for the Jetsetter",
+
+            "refinementId": "1kvqap5",
+
+            "categoryId": "Gifts for the Jetsetter",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-13t7fzm?ro=13t7fzm",
+
+            "navigationStateJson": "/_/N-13t7fzm/c.json?ro=13t7fzm",
+
+            "count": 4,
+
+            "name": "Gifts for the Trendsetter",
+
+            "refinementId": "13t7fzm",
+
+            "categoryId": "Gifts for the Trendsetter",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-rl8wlk?ro=rl8wlk",
+
+            "navigationStateJson": "/_/N-rl8wlk/c.json?ro=rl8wlk",
+
+            "count": 7,
+
+            "name": "Gifts You Didn't Get",
+
+            "refinementId": "rl8wlk",
+
+            "categoryId": "Gifts You Didn't Get",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Great Gifts",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "767003921"
+
+        }
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-5l?ro=5l",
+
+            "navigationStateJson": "/_/N-5l/c.json?ro=5l",
+
+            "count": 214520,
+
+            "name": "$0 - $25",
+
+            "refinementId": "5l",
+
+            "categoryId": "$0 - $25",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5m?ro=5m",
+
+            "navigationStateJson": "/_/N-5m/c.json?ro=5m",
+
+            "count": 55440,
+
+            "name": "$25 - $50",
+
+            "refinementId": "5m",
+
+            "categoryId": "$25 - $50",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5n?ro=5n",
+
+            "navigationStateJson": "/_/N-5n/c.json?ro=5n",
+
+            "count": 30403,
+
+            "name": "$50 - $100",
+
+            "refinementId": "5n",
+
+            "categoryId": "$50 - $100",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5o?ro=5o",
+
+            "navigationStateJson": "/_/N-5o/c.json?ro=5o",
+
+            "count": 12015,
+
+            "name": "$100 - $200",
+
+            "refinementId": "5o",
+
+            "categoryId": "$100 - $200",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5p?ro=5p",
+
+            "navigationStateJson": "/_/N-5p/c.json?ro=5p",
+
+            "count": 4994,
+
+            "name": "$200 - $400",
+
+            "refinementId": "5p",
+
+            "categoryId": "$200 - $400",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5q?ro=5q",
+
+            "navigationStateJson": "/_/N-5q/c.json?ro=5q",
+
+            "count": 1396,
+
+            "name": "$400 - $600",
+
+            "refinementId": "5q",
+
+            "categoryId": "$400 - $600",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5r?ro=5r",
+
+            "navigationStateJson": "/_/N-5r/c.json?ro=5r",
+
+            "count": 659,
+
+            "name": "$600 - $800",
+
+            "refinementId": "5r",
+
+            "categoryId": "$600 - $800",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5s?ro=5s",
+
+            "navigationStateJson": "/_/N-5s/c.json?ro=5s",
+
+            "count": 407,
+
+            "name": "$800 - $1000",
+
+            "refinementId": "5s",
+
+            "categoryId": "$800 - $1000",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-5t?ro=5t",
+
+            "navigationStateJson": "/_/N-5t/c.json?ro=5t",
+
+            "count": 679,
+
+            "name": "$1000 - $2000",
+
+            "refinementId": "5t",
+
+            "categoryId": "$1000 - $2000",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-62?ro=62",
+
+            "navigationStateJson": "/_/N-62/c.json?ro=62",
+
+            "count": 136,
+
+            "name": "$2000 - $3000",
+
+            "refinementId": "62",
+
+            "categoryId": "$2000 - $3000",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Price",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "200"
+
+        }
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-lhcq?ro=lhcq",
+
+            "navigationStateJson": "/_/N-lhcq/c.json?ro=lhcq",
+
+            "count": 1488,
+
+            "name": "Best Sellers",
+
+            "refinementId": "lhcq",
+
+            "categoryId": "Best Sellers",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-lhcr?ro=lhcr",
+
+            "navigationStateJson": "/_/N-lhcr/c.json?ro=lhcr",
+
+            "count": 5160,
+
+            "name": "Customer Top Rated",
+
+            "refinementId": "lhcr",
+
+            "categoryId": "Customer Top Rated",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-lhcs?ro=lhcs",
+
+            "navigationStateJson": "/_/N-lhcs/c.json?ro=lhcs",
+
+            "count": 15825,
+
+            "name": "Easy Pay Offers",
+
+            "refinementId": "lhcs",
+
+            "categoryId": "Easy Pay Offers",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-lhct?ro=lhct",
+
+            "navigationStateJson": "/_/N-lhct/c.json?ro=lhct",
+
+            "count": 3,
+
+            "name": "Items Recently On Air",
+
+            "refinementId": "lhct",
+
+            "categoryId": "Items Recently On Air",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-lhcv?ro=lhcv",
+
+            "navigationStateJson": "/_/N-lhcv/c.json?ro=lhcv",
+
+            "count": 1,
+
+            "name": "New Arrivals",
+
+            "refinementId": "lhcv",
+
+            "categoryId": "New Arrivals",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13det?ro=1z13det",
+
+            "navigationStateJson": "/_/N-1z13det/c.json?ro=1z13det",
+
+            "count": 444,
+
+            "name": "Receive Before 12/25",
+
+            "refinementId": "1z13det",
+
+            "categoryId": "Receive Before 12/25",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13f60?ro=1z13f60",
+
+            "navigationStateJson": "/_/N-1z13f60/c.json?ro=1z13f60",
+
+            "count": 3598,
+
+            "name": "Shipping Offers",
+
+            "refinementId": "1z13f60",
+
+            "categoryId": "Shipping Offers",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-lhcx?ro=lhcx",
+
+            "navigationStateJson": "/_/N-lhcx/c.json?ro=lhcx",
+
+            "count": 16197,
+
+            "name": "Special Prices",
+
+            "refinementId": "lhcx",
+
+            "categoryId": "Special Prices",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 8,
+
+        "name": "Shop By",
+
+        "multiSelect": "true"
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-1z13euq?ro=1z13euq",
+
+            "navigationStateJson": "/_/N-1z13euq/c.json?ro=1z13euq",
+
+            "count": 7584,
+
+            "name": "Black",
+
+            "refinementId": "1z13euq",
+
+            "categoryId": "Black",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13eus?ro=1z13eus",
+
+            "navigationStateJson": "/_/N-1z13eus/c.json?ro=1z13eus",
+
+            "count": 6484,
+
+            "name": "Blues",
+
+            "refinementId": "1z13eus",
+
+            "categoryId": "Blues",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13euw?ro=1z13euw",
+
+            "navigationStateJson": "/_/N-1z13euw/c.json?ro=1z13euw",
+
+            "count": 5659,
+
+            "name": "Browns",
+
+            "refinementId": "1z13euw",
+
+            "categoryId": "Browns",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13dtc?ro=1z13dtc",
+
+            "navigationStateJson": "/_/N-1z13dtc/c.json?ro=1z13dtc",
+
+            "count": 12,
+
+            "name": "Brownz",
+
+            "refinementId": "1z13dtc",
+
+            "categoryId": "Brownz",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13euv?ro=1z13euv",
+
+            "navigationStateJson": "/_/N-1z13euv/c.json?ro=1z13euv",
+
+            "count": 2051,
+
+            "name": "Gray",
+
+            "refinementId": "1z13euv",
+
+            "categoryId": "Gray",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1e0s29n?ro=1e0s29n",
+
+            "navigationStateJson": "/_/N-1e0s29n/c.json?ro=1e0s29n",
+
+            "count": 1,
+
+            "name": "Green",
+
+            "refinementId": "1e0s29n",
+
+            "categoryId": "Green",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13eui?ro=1z13eui",
+
+            "navigationStateJson": "/_/N-1z13eui/c.json?ro=1z13eui",
+
+            "count": 4193,
+
+            "name": "Greens",
+
+            "refinementId": "1z13eui",
+
+            "categoryId": "Greens",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-19kj0a5?ro=19kj0a5",
+
+            "navigationStateJson": "/_/N-19kj0a5/c.json?ro=19kj0a5",
+
+            "count": 1362,
+
+            "name": "Lavander",
+
+            "refinementId": "19kj0a5",
+
+            "categoryId": "Lavander",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13eue?ro=1z13eue",
+
+            "navigationStateJson": "/_/N-1z13eue/c.json?ro=1z13eue",
+
+            "count": 459,
+
+            "name": "Multi-Colors",
+
+            "refinementId": "1z13eue",
+
+            "categoryId": "Multi-Colors",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13euh?ro=1z13euh",
+
+            "navigationStateJson": "/_/N-1z13euh/c.json?ro=1z13euh",
+
+            "count": 557,
+
+            "name": "Oranges",
+
+            "refinementId": "1z13euh",
+
+            "categoryId": "Oranges",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Color",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "100034"
+
+        }
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-1z12z88?ro=1z12z88",
+
+            "navigationStateJson": "/_/N-1z12z88/c.json?ro=1z12z88",
+
+            "count": 23,
+
+            "name": "Balm",
+
+            "refinementId": "1z12z88",
+
+            "categoryId": "Balm",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-13pzov2?ro=13pzov2",
+
+            "navigationStateJson": "/_/N-13pzov2/c.json?ro=13pzov2",
+
+            "count": 1,
+
+            "name": "Blotting Paper",
+
+            "refinementId": "13pzov2",
+
+            "categoryId": "Blotting Paper",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-118bxb3?ro=118bxb3",
+
+            "navigationStateJson": "/_/N-118bxb3/c.json?ro=118bxb3",
+
+            "count": 6,
+
+            "name": "Brightener",
+
+            "refinementId": "118bxb3",
+
+            "categoryId": "Brightener",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1ma8gb7?ro=1ma8gb7",
+
+            "navigationStateJson": "/_/N-1ma8gb7/c.json?ro=1ma8gb7",
+
+            "count": 76,
+
+            "name": "Cleanser",
+
+            "refinementId": "1ma8gb7",
+
+            "categoryId": "Cleanser",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z138jh?ro=1z138jh",
+
+            "navigationStateJson": "/_/N-1z138jh/c.json?ro=1z138jh",
+
+            "count": 17,
+
+            "name": "Cleansers",
+
+            "refinementId": "1z138jh",
+
+            "categoryId": "Cleansers",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-mocpvq?ro=mocpvq",
+
+            "navigationStateJson": "/_/N-mocpvq/c.json?ro=mocpvq",
+
+            "count": 46,
+
+            "name": "Day Moisturizers",
+
+            "refinementId": "mocpvq",
+
+            "categoryId": "Day Moisturizers",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-s85sop?ro=s85sop",
+
+            "navigationStateJson": "/_/N-s85sop/c.json?ro=s85sop",
+
+            "count": 33,
+
+            "name": "Exfoliant",
+
+            "refinementId": "s85sop",
+
+            "categoryId": "Exfoliant",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1dsmf6l?ro=1dsmf6l",
+
+            "navigationStateJson": "/_/N-1dsmf6l/c.json?ro=1dsmf6l",
+
+            "count": 22,
+
+            "name": "Eye Cream",
+
+            "refinementId": "1dsmf6l",
+
+            "categoryId": "Eye Cream",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1npbz8?ro=1npbz8",
+
+            "navigationStateJson": "/_/N-1npbz8/c.json?ro=1npbz8",
+
+            "count": 53,
+
+            "name": "Eye Treatment",
+
+            "refinementId": "1npbz8",
+
+            "categoryId": "Eye Treatment",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-87x4w6?ro=87x4w6",
+
+            "navigationStateJson": "/_/N-87x4w6/c.json?ro=87x4w6",
+
+            "count": 10,
+
+            "name": "Face Scrub",
+
+            "refinementId": "87x4w6",
+
+            "categoryId": "Face Scrub",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Product Type",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "100127"
+
+        }
+
+      },
+
+      {
+
+        "values": [
+
+          {
+
+            "navigationState": "/_/N-1z13fp0?ro=1z13fp0",
+
+            "navigationStateJson": "/_/N-1z13fp0/c.json?ro=1z13fp0",
+
+            "count": 61,
+
+            "name": "Bracelets 7 1/2'' - 7 3/4''",
+
+            "refinementId": "1z13fp0",
+
+            "categoryId": "Bracelets 7 1/2'' - 7 3/4''",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13fow?ro=1z13fow",
+
+            "navigationStateJson": "/_/N-1z13fow/c.json?ro=1z13fow",
+
+            "count": 752,
+
+            "name": "Bracelets 7'' - 7 1/4''",
+
+            "refinementId": "1z13fow",
+
+            "categoryId": "Bracelets 7'' - 7 1/4''",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13foy?ro=1z13foy",
+
+            "navigationStateJson": "/_/N-1z13foy/c.json?ro=1z13foy",
+
+            "count": 400,
+
+            "name": "Bracelets 8'' - 8 3/4''",
+
+            "refinementId": "1z13foy",
+
+            "categoryId": "Bracelets 8'' - 8 3/4''",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13foa?ro=1z13foa",
+
+            "navigationStateJson": "/_/N-1z13foa/c.json?ro=1z13foa",
+
+            "count": 395,
+
+            "name": "Bracelets 9'' and up",
+
+            "refinementId": "1z13foa",
+
+            "categoryId": "Bracelets 9'' and up",
+
+            "selected": false
+
+          },
+
+         {
+
+            "navigationState": "/_/N-1z13qg4?ro=1z13qg4",
+
+            "navigationStateJson": "/_/N-1z13qg4/c.json?ro=1z13qg4",
+
+            "count": 5,
+
+            "name": "Bracelets One Size Fits Most",
+
+            "refinementId": "1z13qg4",
+
+            "categoryId": "Bracelets One Size Fits Most",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13fo9?ro=1z13fo9",
+
+            "navigationStateJson": "/_/N-1z13fo9/c.json?ro=1z13fo9",
+
+            "count": 263,
+
+            "name": "Bracelets under 7''",
+
+            "refinementId": "1z13fo9",
+
+            "categoryId": "Bracelets under 7''",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13qny?ro=1z13qny",
+
+            "navigationStateJson": "/_/N-1z13qny/c.json?ro=1z13qny",
+
+            "count": 32,
+
+            "name": "Bras 32",
+
+            "refinementId": "1z13qny",
+
+            "categoryId": "Bras 32",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13qoo?ro=1z13qoo",
+
+            "navigationStateJson": "/_/N-1z13qoo/c.json?ro=1z13qoo",
+
+            "count": 76,
+
+            "name": "Bras 34",
+
+            "refinementId": "1z13qoo",
+
+            "categoryId": "Bras 34",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13qpx?ro=1z13qpx",
+
+            "navigationStateJson": "/_/N-1z13qpx/c.json?ro=1z13qpx",
+
+            "count": 80,
+
+            "name": "Bras 36",
+
+            "refinementId": "1z13qpx",
+
+            "categoryId": "Bras 36",
+
+            "selected": false
+
+          },
+
+          {
+
+            "navigationState": "/_/N-1z13qpu?ro=1z13qpu",
+
+            "navigationStateJson": "/_/N-1z13qpu/c.json?ro=1z13qpu",
+
+            "count": 78,
+
+            "name": "Bras 38",
+
+            "refinementId": "1z13qpu",
+
+            "categoryId": "Bras 38",
+
+            "selected": false
+
+          }
+
+        ],
+
+        "count": 10,
+
+        "name": "Size",
+
+        "multiSelect": "true",
+
+        "showMoreIds": {
+
+          "name": "Show More Refinements...",
+
+          "value": "100033"
+
+        }
+
+      }
+
+    ],
+
+    "sortBy": [
+
+      {
+
+        "label": "Best Match",
+
+        "selected": true
+
+      },
+
+      {
+
+        "label": "Top Sellers",
+
+        "query": "?sort=Top+Sellers",
+
+        "selected": false,
+
+        "value": "Top+Sellers"
+
+      },
+
+      {
+
+        "label": "Average Rating",
+
+        "query": "?sort=Average+Rating",
+
+        "selected": false,
+
+        "value": "Average+Rating"
+
+      },
+
+      {
+
+        "label": "Recently On Air",
+
+        "query": "?sort=Recently+On+Air",
+
+        "selected": false,
+
+        "value": "Recently+On+Air"
+
+      },
+
+      {
+
+        "label": "Newest First",
+
+        "query": "?sort=Newest+First",
+
+        "selected": false,
+
+        "value": "Newest+First"
+
+      },
+
+      {
+
+        "label": "Price - High to Low",
+
+        "query": "?sort=Price+-+High+to+Low",
+
+        "selected": false,
+
+        "value": "Price+-+High+to+Low"
+
+      },
+
+      {
+
+        "label": "Price - Low to High",
+
+        "query": "?sort=Price+-+Low+to+High",
+
+       "selected": false,
+
+        "value": "Price+-+Low+to+High"
+
+      }
+
+    ]
+
+  },
+
+  "searchFeatures": {
+
+    "hideDidYouMean": false,
+
+    "hideAutoCorrect": false,
+
+    "hideResultsListAndGuidedNavigation": false,
+
+    "hideSearchMessaging": false
+
+  },
+
+  "spotlights": [
+
+    {
+
+      "productNumber": "H41303",
+
+      "itemNumber": "H41303-H41303-402-011",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Chelsea Complete Bed Ensemble",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://images.qvc.com/is/image/h/03/h41303.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 0,
+
+        "averageRating": 0
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 1,
+
+        "currentMaximumSellingPrice": 1,
+
+        "qvcMinimumPrice": 86.5,
+
+        "qvcMaximumPrice": 86.5,
+
+        "specialPriceType": {
+
+          "code": null,
+
+          "description": null,
+
+          "specialPriceStartTime": null,
+
+         "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "numberOfInstallments": 0
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "promotionalText": {
+
+        "AUTOPROMOTEXT": [
+
+          "New"
+
+        ]
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 12.22,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "sourceCode": "98101711",
+
+        "buymoreIndicator": "N",
+
+        "firstATSDate": "253402254779000.000000",
+
+        "salesDivCode": "QVC",
+
+        "fauxCategoryCodes": "M855",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "1"
+
+      }
+
+    }
+
+  ],
+
+  "products": [
+
+    {
+
+      "productNumber": "E03003",
+
+      "itemNumber": "E03003-E03003-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Sharp AQUOS 42&quot Diagonal Widescreen High-Definition 1080p LCD TV",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/e/03/e03003.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 17,
+
+        "averageRating": 0
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 1404.24,
+
+        "currentMaximumSellingPrice": 1404.24,
+
+        "qvcMinimumPrice": 1544.6,
+
+        "qvcMaximumPrice": 1544.6,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "numberOfInstallments": 0
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 60.72,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/e/03/e03003.001",
+
+        "lastOnAirDate": "1476796860000.000000",
+
+        "sourceCode": "07092304",
+
+        "firstATSDate": "1186790400000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "A91723",
+
+      "itemNumber": "A91723-A91723-G20-012",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "SlenderFit Short Length Stretch Pants with Tummy Control",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/a/23/a91723_012.102",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 1,
+
+        "averageRating": 3
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 1099,
+
+        "currentMaximumSellingPrice": 1099,
+
+        "qvcMinimumPrice": 1465,
+
+        "qvcMaximumPrice": 1465,
+
+        "retailMinimumPrice": 46,
+
+        "retailMaximumPrice": 46,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "promotionalText": {
+
+        "AUTOPROMOTEXT": [
+
+          "Customer Top Rated"
+
+        ]
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 17.47,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/a/23/a91723_012.102",
+
+        "firstATSDate": "1249603200000.000000",
+
+        "imgColorUrl": "http://qvc.scene7.com/is/image/QVC/a/23/a91723_012.102",
+
+        "salesDivCode": "QVC",
+
+        "Best Seller": "0",
+
+        "Sold Last 30 Days Quantity": "1",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "1",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "H208380",
+
+      "itemNumber": "H208380-H208380-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Serta Perfect Sleeper 12\" Influence EuroTop CK Mattress Set",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/80/h208380.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 1,
+
+        "averageRating": 2
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 899,
+
+        "currentMaximumSellingPrice": 899,
+
+        "qvcMinimumPrice": 1088,
+
+        "qvcMaximumPrice": 1088,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/80/h208380.001",
+
+        "firstATSDate": "1458432000000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "H208379",
+
+      "itemNumber": "H208379-H208379-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Serta Perfect Sleeper 12\" Influence EuroTop King Mattress Set",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/79/h208379.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 13,
+
+        "averageRating": 3.5
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 899,
+
+        "currentMaximumSellingPrice": 899,
+
+        "qvcMinimumPrice": 1088,
+
+        "qvcMaximumPrice": 1088,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/79/h208379.001",
+
+        "firstATSDate": "1458432000000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "H208378",
+
+      "itemNumber": "H208378-H208378-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Serta Perfect Sleeper 12\" Influence EuroTop SQ Mattress Set",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/78/h208378.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 2,
+
+        "averageRating": 4.5
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 799,
+
+        "currentMaximumSellingPrice": 799,
+
+        "qvcMinimumPrice": 967,
+
+        "qvcMaximumPrice": 967,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/78/h208378.001",
+
+        "firstATSDate": "1458432000000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "E228291",
+
+      "itemNumber": "E228291-E228291-000-154",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Dell 15\" Laptop Window 10 8GB QuadCore 1TB HD Printer, Bag & Lifetime Tech",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/e/91/e228291_154.102",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 2,
+
+        "averageRating": 4.5
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 700,
+
+        "currentMaximumSellingPrice": 700,
+
+        "qvcMinimumPrice": 729,
+
+        "qvcMaximumPrice": 729,
+
+        "retailMinimumPrice": 1092,
+
+        "retailMaximumPrice": 1092,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "numberOfInstallments": 0
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": true
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 16.72,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/e/91/e228291_154.102",
+
+        "firstATSDate": "1487808000000.000000",
+
+        "imgColorUrl": "http://qvc.scene7.com/is/image/QVC/e/91/e228291_154.102",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "1"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "E231228",
+
+      "itemNumber": "E231228-E231228-000-IB5",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "HP 17\" Touch Laptop Core i5 8GB RAM 2TB HD w/ Backlit Keys Tech, MS Office",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/e/28/e231228_ib5.102",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 0,
+
+        "averageRating": 0
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 699.94,
+
+        "currentMaximumSellingPrice": 699.94,
+
+        "qvcMinimumPrice": 829,
+
+        "qvcMaximumPrice": 829,
+
+        "retailMinimumPrice": 2305.77,
+
+        "retailMaximumPrice": 2305.77,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "numberOfInstallments": 0
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/e/28/e231228_ib5.102",
+
+        "firstATSDate": "1543881600000.000000",
+
+        "imgColorUrl": "http://qvc.scene7.com/is/image/QVC/e/28/e231228_ib5.102",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "1"
+
+      },
+
+      "assets": [
+
+        {
+
+          "type": "video",
+
+          "url": "http://www.qvc.com/6158331721001"
+
+       },
+
+        {
+
+          "type": "video",
+
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6116119103001/d1e9a687-a8ba-41fa-8668-deac154c73a2/0c2bf375-2652-4912-a648-db099529515d/1280x720/match/image.jpg"
+
+        },
+
+        {
+
+          "type": "video",
+
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6116119103001/d1e9a687-a8ba-41fa-8668-deac154c73a2/86177413-a8f5-45e6-9045-28c90d1ec73f/160x90/match/image.jpg"
+
+        },
+
+        {
+
+          "type": "video",
+
+          "url": "https://vdqvcusqa.akamaized.net/6158331721001.m3u8"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "productNumber": "H208377",
+
+      "itemNumber": "H208377-H208377-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Serta Perfect Sleeper 12\" Influence EuroTop Queen Mattress Set",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/77/h208377.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 13,
+
+        "averageRating": 3.4
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 699,
+
+        "currentMaximumSellingPrice": 699,
+
+        "qvcMinimumPrice": 846,
+
+        "qvcMaximumPrice": 846,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/77/h208377.001",
+
+        "firstATSDate": "1458432000000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "H215365",
+
+      "itemNumber": "H215365-H215365-000-271",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Royal Palace Special Edition Fleur De Lis 8' x 10'6\" Wool Rug",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/65/h215365_016.102",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 0,
+
+        "averageRating": 0
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 693,
+
+        "currentMaximumSellingPrice": 693,
+
+        "qvcMinimumPrice": 839,
+
+        "qvcMaximumPrice": 839,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/65/h215365_016.102",
+
+        "imgColorUrl": "http://qvc.scene7.com/is/image/QVC/h/65/h215365_271.102",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "1"
+
+      }
+
+    },
+
+    {
+
+      "productNumber": "H208376",
+
+      "itemNumber": "H208376-H208376-000-000",
+
+      "type": "INVENTORY",
+
+      "shortDescription": "Serta Perfect Sleeper 12\" Influence EuroTop Full Mattress Set",
+
+      "availableToSellIndicator": "Y",
+
+      "baseImageUrl": "http://qvc.scene7.com/is/image/QVC/h/76/h208376.001",
+
+      "swatchIndicator": false,
+
+      "reviews": {
+
+        "count": 7,
+
+        "averageRating": 4.4
+
+      },
+
+      "pricing": {
+
+        "currentMinimumSellingPrice": 659,
+
+        "currentMaximumSellingPrice": 659,
+
+        "qvcMinimumPrice": 798,
+
+        "qvcMaximumPrice": 798,
+
+        "specialPriceType": {
+
+          "code": "TSV",
+
+          "description": "Today's Special Value",
+
+          "specialPriceStartTime": null,
+
+          "specialPriceEndTime": null,
+
+          "specialPricePopupUrl": null
+
+        },
+
+        "productCreditTerms": [
+
+          {
+
+            "code": "C6",
+
+            "numberOfInstallments": 6,
+
+            "text": "Available for 6 Easy Payments"
+
+          }
+
+        ],
+
+        "supressQvcPriceIndicator": false
+
+      },
+
+      "shippingAndHandling": {
+
+        "shippingHandlingCharge": 0,
+
+        "discountCode": "N",
+
+        "twoManHandling": false
+
+      },
+
+      "attributes": {
+
+        "displayImageUrl": "http://qvc.scene7.com/is/image/QVC/h/76/h208376.001",
+
+        "firstATSDate": "1458432000000.000000",
+
+        "salesDivCode": "QVC",
+
+        "manstopIQVC": "N",
+
+        "manstopInternet": "N",
+
+        "moreColorsAvailable": "0",
+
+        "moreOptionsAvailable": "0"
+
+      }
+
+    }
+
+  ]
+
+}
