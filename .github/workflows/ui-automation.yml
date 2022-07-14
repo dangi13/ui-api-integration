@@ -30,5 +30,4 @@ jobs:
       with:
           name: test-result
           path: |
-            TestReport.html
             pxp-web/test-result
