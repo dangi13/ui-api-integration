@@ -24,3 +24,11 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn install -f pxp-web/pom.xml
+    - name: Save test results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+          name: test-result
+          path: |
+            TestReport.html
+            pxp-web/test-result
